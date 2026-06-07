@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Anjana 👋
 
-<!--
-**Anjana-devs/Anjana-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Second-year Computer Engineering student
+
+- Learning Python, AI, and Cloud security
+
+- Interested in Open Source and Software Development
+
+## Skills
+
+- Python
+
+- AWS Cloud
+
+- Git & GitHub
+
+## Projects
+
+### Student Management System
+
+A system to manage student records.
+
+### Portfolio Website
+
+My personal website built with HTML and CSS.
+
+### AI Chatbot
+
+A chatbot developed using Python.
+
+## Connect With Me
+
+- GitHub: https://github.com/Anjana-devs
